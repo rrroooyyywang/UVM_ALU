@@ -26,6 +26,7 @@ module simple_alu (
       endcase
     end
   end
+  
 
   assign ack = req_q;   // 固定 1 拍后给应答
   assign y   = res_q;
