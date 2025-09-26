@@ -1,5 +1,6 @@
 {
     "cSpell.enabledFileTypes": {
-        "systemverilog": false
+        "systemverilog": false,
+        "shellscript": false
     }
 }
